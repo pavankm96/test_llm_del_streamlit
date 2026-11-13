@@ -1,0 +1,2 @@
+streamlit
+llama-cpp-python --extra-index-url https://parisneo.github.io/llama-cpp-python-wheels/whl/cpu/
